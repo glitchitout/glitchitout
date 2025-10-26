@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" height="150"/>
-</p>
-
----
 
 ### 🤝 Let’s Connect
 If you’re a developer, student, or mentor — I’d love to connect and collaborate!
